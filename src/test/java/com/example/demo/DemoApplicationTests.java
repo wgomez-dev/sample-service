@@ -14,7 +14,7 @@ class DemoApplicationTests {
 
 	@Test
 	void dummyTest(){
-		assertEquals(1, 1);
+		assertEquals(1, 2);
 	}
 
 }
